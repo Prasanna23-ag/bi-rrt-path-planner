@@ -1,5 +1,5 @@
 import random
-from rrt_utils import Node, steer, is_collision, get_nearest, build_path
+from rrt_utils import Node, steer, is_collision, get_nearest, build_path, distance
 
 def bi_rrt(start, goal, map_binary, step_size=5, max_iters=1000, goal_thresh=10):
     height, width = map_binary.shape
