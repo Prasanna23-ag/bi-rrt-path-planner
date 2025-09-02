@@ -11,6 +11,7 @@ A modular Python implementation of the Bidirectional Rapidly-exploring Random Tr
 - Modular codebase for easy experimentation
 
 ## Project Structure
+<pre>
 bi-rrt-path-planner/
 ├── main.py              # Entry point for the planner
 ├── map_loader.py        # Loads and parses the map
@@ -19,7 +20,8 @@ bi-rrt-path-planner/
 ├── visualizer.py        # Visualization of the planning process
 ├── custom_map.pgm       # Sample map file
 ├── README.md            # Project documentation
-
+  
+</pre>
 
 ## How to Run
 
