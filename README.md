@@ -29,3 +29,13 @@ Make sure you're in the project directory, then run:
 
 python main.py
 
+## 📸 Demo Outputs
+
+### 🗺️ Original Map
+![Custom Map](custom_map.png)
+
+### 🧭 Path Plot Only
+![Saved Path Plot](saved_path_plot.png)
+
+### 🗺️ Path Overlaid on Map
+![Saved Path with Map](saved_path_with_map.png)
