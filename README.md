@@ -1,4 +1,4 @@
-# bi-rrt-path-planner
+# Bi-RRT-path-planner
 
 A modular Python implementation of the Bidirectional Rapidly-exploring Random Tree (Bi-RRT) algorithm for efficient path planning in 2D grid maps. This project visualizes the search process and final path between a start and goal location using a custom map.
 
@@ -29,12 +29,12 @@ Make sure you're in the project directory, then run:
 
 python main.py
 
-## 📸 Demo Outputs
+## Demo Outputs
 
-### 🗺️ Original Map
+### Original Map
 ![Custom Map](custom_map.png)
 
-### 🧭 Path Plot Only
+### Path Plot Only
 ![Saved Path Plot](saved_path_plot.png)
 
 ### 🗺️ Path Overlaid on Map
