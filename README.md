@@ -37,5 +37,5 @@ python main.py
 ### Path Plot Only
 ![Saved Path Plot](saved_path_plot.png)
 
-### 🗺️ Path Overlaid on Map
+### Path Overlaid on Map
 ![Saved Path with Map](saved_path_with_map.png)
