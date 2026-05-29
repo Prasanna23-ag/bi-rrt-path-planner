@@ -27,8 +27,9 @@ bi-rrt-path-planner/
 
 Make sure you're in the project directory, then run:
 
+```bash
 python main.py
-
+```
 ## Demo Outputs
 
 ### Original Map
